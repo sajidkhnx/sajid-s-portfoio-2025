@@ -5,7 +5,7 @@ import Markdown from "react-markdown";
 
 interface Props {
   title: string;
-  description: string;
+  description?: string;
   dates: string;
   location: string;
   image?: string;
