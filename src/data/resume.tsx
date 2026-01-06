@@ -226,7 +226,7 @@ export const DATA = {
         },
       ],
       image: "",
-      video: "/DSAlytics.mp4",
+      video: "/DSAlyticss.mp4",
     },
     {
       title: "Gramin AI",
