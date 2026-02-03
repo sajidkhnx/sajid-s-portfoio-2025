@@ -269,7 +269,7 @@ export const DATA = {
       description:
         "This project focuses on analyzing Airbnb dataset to uncover insights about pricing, availability, location trends, and customer preferences. By applying data analysis and visualization techniques, we aim to understand patterns in the Airbnb marketplace that can help hosts, travelers, and business stakeholders make informed decisions.",
       technologies: [
-        "Pyhton",
+        "Python",
         "SQL",
         "Data Cleaning",
         "Data Visualization",
